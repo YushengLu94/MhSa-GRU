@@ -7,4 +7,4 @@ This folder includes the train and test datasets for Cosmetics 2019-Nov, Cosmeti
 Besides, the raw data is available at [Cosmetics](https://www.kaggle.com/mkechinov/ecommerce-events-history-in-cosmetics-shop) , [Ta Feng](https://www.kaggle.com/chiranjivdas09/ta-feng-grocery-dataset)
 
 ## The source code
-This folder includes the code of our method MhSa-GRU, which was written in Python 3.7.
+This folder includes the code of our method MhSa-GRU, which runs with Python 3.7. You need the Pandas, Numpy, Torch, Pickle, Visdom packages.
