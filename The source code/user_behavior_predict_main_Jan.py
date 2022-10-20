@@ -10,7 +10,7 @@ from visdom import Visdom
 import torch.optim as optim
 import torch.nn.functional as F
 from shuffle_data import shuffle
-from Model_jan import GRU_model
+from GRUModel_jan import GRU_model
 from torch.autograd import Variable
 from self_attention import selfattention
 
